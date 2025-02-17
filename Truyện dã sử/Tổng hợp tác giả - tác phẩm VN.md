@@ -22,7 +22,15 @@
 
 11.Blog [Vietnovel](https://www.vietnovel.com/the-loai/truyen-lich-su/)
 
-12.
+12.Truyền kỳ mạn lục của Nguyễn Dữ
+
+13.Nam Hải dị nhân liệt truyện của Phan Kế Bính
+
+14.Blog [Khuynh Vân](https://peacenguyenblog.wordpress.com/truyen-da-su-viet-nam/)
+
+15.Blog [truyện dã sử](https://truyenyy.xyz/truyen-da-su/)
+
+16.List [Nhà sách tin học](https://docs.google.com/spreadsheets/d/1nsUkbpBhr9BkzFDMdxMoMhMcdqY--fPFJa1f4fHUmWY/edit?fbclid=IwY2xjawIZoylleHRuA2FlbQIxMAABHQlPDdgEtEtm0zPejKyDzsu22CPhKP-20BaFsveFdBZ-H1qlgK9YNwetMA_aem_RRCd8jomRwmEzYgraDuoqA&gid=0#gid=0)
 
 ## 1.1.Chi tiết danh sách truyện dã sử
 

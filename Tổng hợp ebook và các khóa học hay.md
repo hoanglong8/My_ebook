@@ -18,7 +18,7 @@
 
 8.www.base-search.net là một trong những nghiên cứu mạnh mẽ nhất về các văn bản nghiên cứu học thuật với hơn 100 triệu hồ sơ khoa học.
 
-## Tổng hợp tài liệu học Data Science, AI
+## Tổng hợp các khóa học hay về Data Science, AI
 
 1.Matt Wolfe
 

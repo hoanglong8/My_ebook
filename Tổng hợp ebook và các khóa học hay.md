@@ -18,6 +18,8 @@
 
 8.www.base-search.net là một trong những nghiên cứu mạnh mẽ nhất về các văn bản nghiên cứu học thuật với hơn 100 triệu hồ sơ khoa học.
 
+9.Link sách tinhte hay trên [Google Drive](https://tinhte.vn/thread/link-tai-kho-sach-hay-google-drive-hon-10-trieu-tai-lieu-pdf-du-thu-tren.3779767/)
+
 ## Tổng hợp các khóa học hay về Data Science, AI
 
 1.Matt Wolfe
@@ -43,3 +45,4 @@
 6.MattVidPro AI
 
 ![6](https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/479493871_617412691234705_3791396501017344318_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHpsWtOSeCCnRjSsZTRFeJymdca0f08W8-Z1xrR_Txbz6VcjWiiRwKjQFyBt2b9P-U&_nc_ohc=sVH4qmgVYJkQ7kNvgHEAwzM&_nc_oc=AdgxZl19QwmVV0KmZdwGwmiKUU5lUz0BqWBy3-u9mcTxkl8a7mP-GIjZxGaRSIdNDWL8S5RjWYbfSmx02WWt7zuN&_nc_zt=23&_nc_ht=scontent-hkg1-1.xx&_nc_gid=AG7QZJzrSJJXUh066n1qesL&oh=00_AYAuWjdBZzT151pQFJluOWJb8_hQIn12dbWvvoF0BTg53A&oe=67BA92C4)
+

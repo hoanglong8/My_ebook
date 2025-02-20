@@ -1,7 +1,5 @@
 ## Tổng hợp sách ebook các thể loại
 
-### Google Drive
-
 1.[1800 Group facebook](https://drive.google.com/drive/folders/1TPtm3drte_JJ5qftRlMet7L0_Xf2X2CK?fbclid=IwY2xjawIhcR5leHRuA2FlbQIxMAABHQIP2szBJu_6kEehtGO8LeRXK6TbIfrzhRLdyXECNFqclucV94bY3_aD7Q_aem_dU1S2ToyMkZSsj32ecZz8w)
 
 2.www.refseek.com - Tìm kiếm Tài nguyên Học thuật với hơn một tỷ nguồn từ bách khoa, tiểu luận, tạp chí.
@@ -19,6 +17,8 @@
 8.www.base-search.net là một trong những nghiên cứu mạnh mẽ nhất về các văn bản nghiên cứu học thuật với hơn 100 triệu hồ sơ khoa học.
 
 9.Link sách tinhte hay trên [Google Drive](https://tinhte.vn/thread/link-tai-kho-sach-hay-google-drive-hon-10-trieu-tai-lieu-pdf-du-thu-tren.3779767/)
+
+10.[Cửu Dương Thần Công](https://cuuduongthancong.com/pvf/2192547/tri-tue-nhan-tao/nguyen-quang-hoan/ttnt.pdf?src=afile&action=hover)
 
 ## Tổng hợp các khóa học hay về Data Science, AI
 
@@ -45,4 +45,10 @@
 6.MattVidPro AI
 
 ![6](https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/479493871_617412691234705_3791396501017344318_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHpsWtOSeCCnRjSsZTRFeJymdca0f08W8-Z1xrR_Txbz6VcjWiiRwKjQFyBt2b9P-U&_nc_ohc=sVH4qmgVYJkQ7kNvgHEAwzM&_nc_oc=AdgxZl19QwmVV0KmZdwGwmiKUU5lUz0BqWBy3-u9mcTxkl8a7mP-GIjZxGaRSIdNDWL8S5RjWYbfSmx02WWt7zuN&_nc_zt=23&_nc_ht=scontent-hkg1-1.xx&_nc_gid=AG7QZJzrSJJXUh066n1qesL&oh=00_AYAuWjdBZzT151pQFJluOWJb8_hQIn12dbWvvoF0BTg53A&oe=67BA92C4)
+
+### Tổng hợp các tool hữu dụng
+
+1.[Upscale ảnh](https://piceditor.io/)
+
+2.[Tạo trò chơi teambuilding](https://cc.outing.vn/)
 

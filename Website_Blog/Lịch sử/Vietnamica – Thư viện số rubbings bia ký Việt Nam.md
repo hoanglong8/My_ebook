@@ -2,7 +2,7 @@
 ## 🏛️ Giới thiệu chung
 Trang [gallery.vietnamica.online](https://gallery.vietnamica.online) là một thư viện hình ảnh trực tuyến lưu trữ khoảng 20,980 bản rubbings (bản ghi chép từ bia ký) của bia ký do Viện Viễn Đông Bác cổ (École Française d’Extrême‑Orient) sản xuất tại Việt Nam từ 1910 đến 1944 
 
-![Uploading image.png…]()
+<img width="1350" height="689" alt="image" src="https://github.com/user-attachments/assets/53464726-9864-465d-b8c7-ccf36adece00" />
 
 ## 📚 Tổ chức dữ liệu & các nguồn liên quan
 Phân mục “RUBBINGS COLLECTION” cho phép người dùng truy cập dữ liệu bản rubbings, bao gồm bản scan và thông tin chi tiết 

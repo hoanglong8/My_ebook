@@ -73,3 +73,54 @@ So sánh nội dung donation theo thế kỷ—ví dụ thế kỷ 17 vs thế k
 Kết hợp ảnh rubbings + bản đồ địa điểm để tạo bài blog giàu trực quan, dễ truy cập.
 
 ---
+# Một số dự án và trang web số hóa tại Việt Nam tương tự tập trung vào mục tiêu bảo tồn di sản, văn bản, hình ảnh và dữ liệu lịch sử thông qua hình ảnh, bản scan, metadata…
+## 📜 1. Số hóa bia mộ liệt sĩ – dự án của TP. Hồ Chí Minh
+- Sinh viên ĐH Công nghệ Thông tin – ĐH Quốc gia TP.HCM và các đơn vị phối hợp đã thực hiện số hóa khoảng 14.300 bia mộ liệt sĩ tại Nghĩa trang Liệt sĩ TP.HCM, cùng hàng nghìn bia mộ tại nghĩa trang Củ Chi, Rừng Sác...
+
+- Dự án đã cho ra đời website tra cứu thông tin mộ, giúp thân nhân dễ dàng tìm kiếm dữ liệu, bản đồ, và phục hồi di ảnh liệt sĩ. Hiện tượng “95% số bia mộ liệt sĩ toàn quốc” đã được số hóa trên website `Lietsi.com` 
+
+- Giai đoạn 2 mở rộng thêm phục dựng di ảnh liệt sĩ bằng AI, nhằm tái hiện chân dung rõ nét, có thể chỉ từ dữ liệu mô tả hoặc ảnh mờ 
+
+## 🏛️ 2. Dự án Digital Library of Hán‑Nôm tại Thư viện Quốc gia
+Thư viện Quốc gia Việt Nam cùng Vietnamese Nôm Preservation Foundation đã tạo nên thư viện số cho bộ sưu tập sách Hán‑Nôm, bao gồm hơn 2000 bản sách chữ Hán – Nôm được scan và metadata cung cấp trực tuyến 
+
+Dự án cũng số hóa văn bản, vật liệu di sản tại chùa Thắng Nghiêm (Hà Nội), gồm bản thảo, tài liệu, hình ảnh di tích, nhằm làm cho tài liệu tôn giáo – lịch sử dễ tiếp cận hơn toàn cầu .
+
+## 🏺 3. Viện Nghiên cứu Hán‑Nôm
+Lưu trữ các bản thảo, sách Hán‑Nôm (gần 20.000 cuốn), 15.000 khối bản gỗ, 40.000 rubbings từ bia, chuông đồng, bia đá từ thế kỷ 10–20.
+
+Cho phép truy cập dữ liệu qua catalogue, tuy việc xuất bản kỹ thuật số vì giọng hạn chế vẫn còn giới hạn. Tuy nhiên đây là nguồn dữ liệu phong phú cho nghiên cứu epigraphy, văn bản Hán‑Nôm tại Việt Nam.
+
+## 🌍 4. Google Arts & Culture – Số hóa các di tích UNESCO tại Việt Nam
+Google Open Heritage đã hợp tác với CyArk và Trung tâm Bảo tồn Di tích Cố đô Huế để số hóa Lăng Tự Đức và các công trình liên quan.
+
+Các bộ ảnh laser scan 3D độ phân giải cao, tour virtual, tài liệu hình ảnh được cho phép truy cập trên nền tảng Google Arts & Culture (ra mắt tháng 4/2019).
+
+## 📸 5. Bộ ảnh lịch sử & khảo sát hình ảnh Việt Nam
+Dự án như Base Ulysse – Southeast Asia in historical photographs bao gồm hơn 3.000 bức ảnh lịch sử Việt Nam từ cuối thế kỷ 19 đến đầu thế kỷ 20, mô tả đời sống thường nhật, lễ nghi, tôn giáo, phục trang dân tộc. 
+
+southeastasianlibrarygroup.wordpress.com
+
+Michigan State University Vietnam Archive lưu giữ khoảng 80.000 trang tài liệu, bản đồ và hình ảnh số với nội dung về thời kỳ kháng chiến, giúp nghiên cứu lịch sử miền Nam hậu chiến.
+
+guides.lib.uw.edu
+
+## ✅ Tổng hợp & đánh giá hữu ích
+| Dự án / Nền tảng                    | Nội dung số hóa                                    | Loại dữ liệu chính                         | Quy mô / hiển thị               |
+| ----------------------------------- | -------------------------------------------------- | ------------------------------------------ | ------------------------------- |
+| Lietsi.com (TPHCM)                  | Bia mộ liệt sĩ, di ảnh liệt sĩ, tra cứu            | Ảnh, metadata, bản đồ                      | \~14.000+ bia mộ; phục dựng AI  |
+| Thư viện Quốc gia + VNPF            | Sách Hán‑Nôm, tài liệu đền chùa...                 | Manuscripts, hình ảnh, metadata            | >2000 bản Hán‑Nôm digital       |
+| Viện Hán‑Nôm                        | Manuscripts, rubbings, bản khắc                    | Sách, rubbings, khối bản gỗ, hơn 40k items | Dữ liệu nghiên cứu chuyên sâu   |
+| Google Arts & Culture – Lăng Tự Đức | Di tích cố đô Huế, tour 3D                         | Ảnh độ phân giải cao, scan laser, tour 3D  | Dự án quốc tế chất lượng cao    |
+| Base Ulysse / MSU Vietnam Archives  | Ảnh lịch sử, tài liệu thời Pháp thuộc/ chiến tranh | Hình ảnh lịch sử, sách, bản đồ             | Hàng nghìn hình ảnh và tài liệu |
+
+## ✍ Gợi ý nghiên cứu chuyên sâu hơn
+Viết series “Nền tảng số hóa Việt Nam”: mỗi bài phân tích chuyên sâu một dự án, cách thức thực hiện và ý nghĩa lịch sử, xã hội.
+
+Kết hợp hình ảnh, tour 3D, metadata chân thực từ các nền tảng kể chuyện sống động.
+
+So sánh phương pháp số hóa truyền thống và AI hiện đại (ví dụ: rubbings vs phục dựng di ảnh).
+
+Khám phá “dữ liệu hồi phản ánh đời sống xã hội”, chẳng hạn dữ liệu donation từ bia mộ liệt sĩ hoặc thông điệp trên bia Hán‑Nôm.
+
+Có thể sử dụng AI để hỗ trợ cách trích xuất `metadata`, ví dụ ảnh đại diện... để sử dụng cho bài nghiên cứu!

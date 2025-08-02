@@ -1,4 +1,57 @@
-Workflows tạo sách nói:
+# 📘 My_ebook
+
+A curated collection of knowledge and insights across diverse fields, built with [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+
+---
+
+## 📁 Repository Structure
+
+My_ebook/
+├── docs/
+│ ├── 1_Philosophy_Spirituality_Esotericism_Huyen_hoc/
+│ │ └── example.md
+│ ├── 2_STEM_Science_Tech_Engineer_Math/
+│ │ └── example.md
+│ ├── 3_BigHistory_Art_Geometry_Literature/
+│ │ └── example.md
+│ ├── 4_Finance_Business_Politics_Society/
+│ │ └── example.md
+│ ├── 5_Information_Technology/
+│ │ └── example.md
+│ ├── 6_Homeland_Lineage_Family_Self/
+│ │ └── example.md
+│ └── index.md
+│
+├── mkdocs.yml
+└── .github/
+└── workflows/
+└── deploy.yml
+
+---
+
+## 🚀 GitHub Pages
+
+This site is automatically deployed to GitHub Pages every time you push to the `main` branch, via GitHub Actions.
+
+---
+
+## 🧩 Categories Overview
+
+| Folder | Description |
+|--------|-------------|
+| `1_...Huyen_hoc` | Philosophy, Spirituality, Esotericism (Vietnamese Mysticism) |
+| `2_...STEM...` | Science, Technology, Engineering, and Math |
+| `3_...BigHistory...` | Macro-history, Arts, Geometry, and Literature |
+| `4_...Finance...` | Finance, Business, Politics, and Social Topics |
+| `5_...IT...` | Information Technology |
+| `6_...Family...` | Homeland, Lineage, Family, and Personal Identity |
+
+---
+
+> ✍️ Built with purpose. Written with curiosity. Organized with love.
+
+
+## Workflows tạo sách nói:
 
 Bước 1: Upload bản scan lên các nền tảng (Archive, Google Drive, Smallpdf...) để lưu trữ và OCR => Link ebook.
 

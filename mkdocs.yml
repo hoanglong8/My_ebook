@@ -1,0 +1,30 @@
+site_name: My Ebook
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.tabs
+    - tags
+nav:
+  - Home: index.md
+  - Philosophy, Spirituality, Esotericism & Huyền học:
+      - Example: 1_Philosophy_Spirituality_Esotericism_Huyen_hoc/example.md
+  - STEM (Science, Tech, Engineering, Math):
+      - Example: 2_STEM_Science_Tech_Engineer_Math/example.md
+  - Big History, Art, Geometry & Literature:
+      - Example: 3_BigHistory_Art_Geometry_Literature/example.md
+  - Finance, Business, Politics & Society:
+      - Example: 4_Finance_Business_Politics_Society/example.md
+  - Information Technology:
+      - Example: 5_Information_Technology/example.md
+  - Homeland, Lineage, Family & Self:
+      - Example: 6_Homeland_Lineage_Family_Self/example.md
+plugins:
+  - search
+  - blog:
+      blog_dir: docs/
+      tags_directory: tags
+markdown_extensions:
+  - meta
+  - toc:
+      permalink: true

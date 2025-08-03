@@ -25,7 +25,7 @@ My_ebook/
 ├── mkdocs.yml
 └── .github//workflows/deploy.yml
 └── mkdocs.yml
-└── Tổng hợp ebook...yml
+└── Tổng hợp ebook và các khóa học hay.md
 ```
 ---
 

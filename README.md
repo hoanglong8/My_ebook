@@ -5,7 +5,7 @@ A curated collection of knowledge and insights across diverse fields, built with
 ---
 
 ## 📁 Repository Structure
-
+```
 My_ebook/
 ├── docs/
 │ ├── 1_Philosophy_Spirituality_Esotericism_Huyen_hoc/
@@ -24,9 +24,11 @@ My_ebook/
 │
 ├── mkdocs.yml
 └── .github/
-└── workflows/
-└── deploy.yml
-
+      └── workflows/
+          └── deploy.yml
+└── mkdocs.yml
+└── Tổng hợp ebook...yml
+```
 ---
 
 ## 🚀 GitHub Pages
@@ -39,12 +41,12 @@ This site is automatically deployed to GitHub Pages every time you push to the `
 
 | Folder | Description |
 |--------|-------------|
-| `1_...Huyen_hoc` | Philosophy, Spirituality, Esotericism (Vietnamese Mysticism) |
-| `2_...STEM...` | Science, Technology, Engineering, and Math |
-| `3_...BigHistory...` | Macro-history, Arts, Geometry, and Literature |
-| `4_...Finance...` | Finance, Business, Politics, and Social Topics |
-| `5_...IT...` | Information Technology |
-| `6_...Family...` | Homeland, Lineage, Family, and Personal Identity |
+| `1_Philosophy_Spirituality_Esotericism_Huyen_hoc` | Triết học, Tâm linh, Huyền học |
+| `2_STEM_Science_Tech_Engineer_Math` | Khoa học tự nhiên, Kỹ thuật, Kiến trúc và Toán học |
+| `3_BigHistory_Art_Geometry_Literature` | Khoa học xã hội, Văn học, Nghệ thuật, Lịch sử và Địa lý |
+| `4_Finance_Business_Politics_Society` | Tài chính, Kinh doanh, Chính trị, Văn hóa và Xã hội |
+| `5_Information_Technology` | Công nghệ thông tin |
+| `6_Homeland_Lineage_Family_Self` | Quê hương, Dòng họ, Gia đình và Bản thân |
 
 ---
 

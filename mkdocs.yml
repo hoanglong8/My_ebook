@@ -21,6 +21,7 @@
         - Example: 6_Homeland_Lineage_Family_Self/example.md
   plugins:
     - search
+    - mermaid2
     - blog:
         blog_dir: docs/
         tags_directory: tags
@@ -39,4 +40,5 @@
     - attr_list
     - admonition
     - pymdownx.mark
-    - pymdownx.mermaid
+
+

@@ -1,37 +1,103 @@
-# 📘 My_ebook
+# 📘 My_ebook – Thư viện tri thức số cá nhân
 
-A curated collection of knowledge and insights across diverse fields, built with [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+![Build Status](https://github.com/hoanglong8/My_ebook/actions/workflows/deploy.yml/badge.svg)
+
+![Banner](docs/assets/banner.png)
+
+Website này được xây dựng bằng [MkDocs](https://www.mkdocs.org/) và [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) để lưu trữ, tổ chức và xuất bản các bài viết đa lĩnh vực như triết học, khoa học, lịch sử, công nghệ, tài chính, gia đình, v.v.
+
+## 🌐 Website online
+
+> 👉 https://hoanglong8.github.io/My_ebook/
 
 ---
 
-## 📁 Repository Structure
+## 🚀 Cách đóng góp nội dung
+
+Bạn có thể đóng góp thêm bài viết vào các chuyên mục có sẵn theo hướng dẫn dưới đây:
+
+### 1. Fork & Clone repo
+
+```bash
+git clone https://github.com/hoanglong8/My_ebook.git
+cd My_ebook
+```
+
+### 2. Thêm bài viết mới
+
+- Mỗi chuyên mục nằm trong thư mục con của `docs/`, ví dụ:
+  - `docs/1_Philosophy_Spirituality_Esotericism_Huyen_hoc/`
+  - `docs/4_Finance_Business_Politics_Society/`
+
+- Bạn hãy tạo file `.md` mới trong thư mục phù hợp. Tên file nên viết không dấu, dùng gạch dưới `_`.
+
+Ví dụ:
+
+```
+docs/4_Finance_Business_Politics_Society/lich_su_dong_tien_viet_nam.md
+```
+
+### 3. Thêm metadata ở đầu file `.md`:
+
+```markdown
+---
+title: Lịch sử đồng tiền Việt Nam
+date: 2025-08-03
+tags: [tài chính, tiền tệ, lịch sử]
+summary: Bài viết tóm tắt các giai đoạn phát triển tiền tệ từ cổ đại đến hiện đại tại Việt Nam.
+---
+```
+
+### 4. Commit và tạo pull request
+
+```bash
+git add .
+git commit -m "Thêm bài viết về lịch sử đồng tiền"
+git push origin main
+```
+
+Sau đó tạo **pull request** nếu bạn là người đóng góp bên ngoài.
+
+---
+
+## 📚 Cấu trúc repo
+
 ```
 My_ebook/
 ├── docs/
-│ ├── 1_Philosophy_Spirituality_Esotericism_Huyen_hoc/
-│ │ └── example.md
-│ ├── 2_STEM_Science_Tech_Engineer_Math/
-│ │ └── example.md
-│ ├── 3_BigHistory_Art_Geometry_Literature/
-│ │ └── example.md
-│ ├── 4_Finance_Business_Politics_Society/
-│ │ └── example.md
-│ ├── 5_Information_Technology/
-│ │ └── example.md
-│ ├── 6_Homeland_Lineage_Family_Self/
-│ │ └── example.md
-│ └── index.md
-│
+│   ├── 1_Philosophy_Spirituality_Esotericism_Huyen_hoc/
+│   ├── 2_STEM_Science_Tech_Engineer_Math/
+│   ├── 3_BigHistory_Art_Geometry_Literature/
+│   ├── 4_Finance_Business_Politics_Society/
+│   ├── 5_Information_Technology/
+│   ├── 6_Homeland_Lineage_Family_Self/
+│   └── index.md
 ├── mkdocs.yml
-└── .github//workflows/deploy.yml
-└── mkdocs.yml
+└── .github/workflows/deploy.yml
 └── Tổng hợp ebook và các khóa học hay.md
 ```
+
 ---
 
-## 🚀 GitHub Pages
+## 🧠 Mục tiêu của dự án
 
-This site is automatically deployed to GitHub Pages every time you push to the `main` branch, via GitHub Actions.
+- Xây dựng **một thư viện tri thức cá nhân mở rộng dần theo thời gian**
+- Sử dụng tư duy hệ thống và mô-đun hóa để phân loại nội dung
+- Ghi lại tri thức cá nhân, gia đình, dòng họ, và ngành nghề chuyên môn
+
+---
+
+## 🛠️ Công nghệ sử dụng
+
+- MkDocs + Material Theme
+- GitHub Pages (tự động deploy qua GitHub Actions)
+- Markdown (chuẩn đơn giản, dễ viết, dễ chia sẻ)
+
+---
+
+## ❤️ Góp ý & phát triển
+
+Mọi góp ý, bổ sung xin gửi qua [Issues](https://github.com/hoanglong8/My_ebook/issues) hoặc [Pull Request](https://github.com/hoanglong8/My_ebook/pulls).
 
 ---
 
